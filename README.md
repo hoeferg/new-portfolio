@@ -1,5 +1,6 @@
 # Gayle Hoefer's Portfolio
 
+<img src="portfolio-g79ff39eed_1280.png" />
 
 ## Table of Contents  
 * [Description](##Description)  
