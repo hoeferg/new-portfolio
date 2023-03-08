@@ -3,8 +3,7 @@
 
 ## Table of Contents  
 * [Description](##Description)  
-* [Technologies](##Technologies)  
-* [Screenshot](##Screenshot)  
+* [FutureDevelopment](##FutureDevelopment)  
 * [Installation](##Installation)  
 * [License](##License)  
 * [Contact](##Contact)  
