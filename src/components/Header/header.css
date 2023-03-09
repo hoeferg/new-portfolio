@@ -1,4 +1,4 @@
-/* Header Styling begins here */
+/* Header Styling begins here
 header {
     background-color: rgba(0,0,0,70%);
     display: flex;
@@ -17,7 +17,7 @@ header {
 }
 
 /* header left side properties applied in the next 3 selectors */
-header div {
+/* header div {
     display: flex;
     align-items: center;
     justify-content: start;
@@ -39,12 +39,12 @@ header div h2 {
 }
 
 /* header right side properties applied in next 2 selectors */
-header nav {
+/* header nav {
     display: flex;
     align-items: center;
     padding: 10px 10px 10px 15px;
     font-size: 1.3em;
     justify-content:end;
     width: 40%;
-    margin-right: 40px;
-}
+    margin-right: 40px; */
+} */ */
