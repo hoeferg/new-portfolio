@@ -4,7 +4,7 @@ import { AiFillGithub } from 'react-icons/ai';
 export default function Project({ projectInfo }) {
     return (
         <>
-            <a 
+            {/* <a 
             className="content-card col-11 col-lg-5 my-4" 
             id={projectInfo.id}
             href={projectInfo.href} 
@@ -16,7 +16,7 @@ export default function Project({ projectInfo }) {
                     <a href={projectInfo.projectGithub} target="_blank"><AiFillGithub />
                     </a>
                 </h4>
-            </a>
+            </a> */}
         </>
     )
 }
